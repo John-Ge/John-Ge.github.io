@@ -1,11 +1,11 @@
 ---
-layout: archive
+layou\textbft: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,63 +13,31 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
-
-
+{% endfor %} -->
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Preprint
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Domain Adaptation via Prompt Learning\\
+Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \\
+arXiv:2202.06687 \\
+[aeXiv](https://arxiv.org/abs/2202.06687}
 
 
-Domain Adaptation via Prompt Learning
+Large scale air pollution prediction with deep convolutional networks\\
+Gao Huang$^*$, Chunjiang Ge$^*$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \\
+Science China Information Sciences. (IF：4.3) \\
+[Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
+
+
+On the Integration of Self-Attention and Convolution\\
+Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \\
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\\
+[arXir](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
+
+
+<!-- Domain Adaptation via Prompt Learning
 
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang
 
@@ -77,4 +45,4 @@ Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang
 
 arXiv preprint arXiv:2202.06687
 
-[arXiv](https://arxiv.org/abs/2202.06687)
+[arXiv](https://arxiv.org/abs/2202.06687) -->
