@@ -11,12 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.A. in Physics and Math, Tsinghua University, 2020
-* Ph.D in Automation, Tsinghua University, 2015 (expected)
+* B.A. in Physics and Math, Tsinghua University, 2020.
+* Ph.D in Automation, Tsinghua University, 2025 (expected).
 
 
-<!-- Research Experience
-======= -->
 
 
 
@@ -24,6 +22,10 @@ Education
 Academic Survices
 =======
 I am horored to be reviewers for NIPS (2021, 2022), CVPR (2022), ECCV (2022).
+
+
+<!-- Research Experience
+======= -->
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
