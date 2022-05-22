@@ -84,11 +84,11 @@ author:
   name             : "Ge chunjiang"
   avatar           : "profile.png"
   bio              : "A Ph.d student in Tsinghua University. "
-  location         : "Beijing China"
+  location         : "Tsinghua, Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZueTF6oAAAAJ&hl=en"
-  email            : "gecj20@mails.tsinghua.edu.cn"
+  email            : "mailto:gecj20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

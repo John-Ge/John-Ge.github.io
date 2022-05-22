@@ -11,11 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics and Math, Tsinghua University, 2020
+* Ph.D in Automation, Tsinghua University, 2015 (expected)
 
-Work experience
+
+<!-- Research Experience
+======= -->
+
+
+
+
+Academic Survices
+=======
+I am horored to be reviewers for NIPS (2021, 2022), CVPR (2022), ECCV (2022).
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,18 +34,18 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +61,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Selected Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Tsinghua University Merit Scholarship (2019)
+* Tsinghua University – Guangyao Scholarship (2019)
+* Tsinghua University Excellent Student Cadre (2021)
+
