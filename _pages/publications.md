@@ -36,5 +36,5 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
-Science China Information Sciences. (IF：4.3) \
+Science China Information Sciences. (IF：7.275) \
 [Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
