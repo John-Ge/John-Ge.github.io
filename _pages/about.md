@@ -25,8 +25,13 @@ Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao H
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
 [arXir](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
 
+**Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
+Chunjiang Ge, Shiji Song and Gao Huang.  \
+AAAI Conference on Artificial Intelligence (AAAI 2023)\
+[paper is comming soon]()
+
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
-Science China Information Sciences. (IF：4.3) \
+Science China Information Sciences. (IF：7.3) \
 [Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
