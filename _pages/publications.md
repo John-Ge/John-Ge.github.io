@@ -23,18 +23,22 @@ Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang
 arXiv:2202.06687 \
 [arXiv](https://arxiv.org/abs/2202.06687)
 
+**Cross-Modal Adapter for Text-Video Retrieval**\
+H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
+[arXiv](https://arXiv.org/abs/2211.09623)
+
 
 ## Conference Papers
 
 **On the Integration of Self-Attention and Convolution**\
 Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
-[arXir](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
+[arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
 
 **Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
 Chunjiang Ge, Shiji Song and Gao Huang.  \
 AAAI Conference on Artificial Intelligence (AAAI 2023)\
-[paper is comming soon]()
+[paper is coming soon]()
 
 
 ## Journal Papers
