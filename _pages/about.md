@@ -17,7 +17,7 @@ Before coming to Department of Automation, I received B.A. in Department of Phys
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 arXiv:2202.06687 \
-[arXiv](https://arxiv.org/abs/2202.06687)
+[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
 **Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
 Chunjiang Ge, Shiji Song and Gao Huang.  \
@@ -27,7 +27,7 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 **On the Integration of Self-Attention and Convolution**\
 Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
-[arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
+[arXiv](https://arxiv.org/abs/2111.14556) [code](https://github.com/leaplabthu/acmix)
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \

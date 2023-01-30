@@ -21,7 +21,7 @@ author_profile: true
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 arXiv:2202.06687 \
-[arXiv](https://arxiv.org/abs/2202.06687)
+[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
 **Cross-Modal Adapter for Text-Video Retrieval**\
 H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
