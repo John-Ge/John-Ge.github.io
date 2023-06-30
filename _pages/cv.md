@@ -14,7 +14,7 @@ A detailed CV is [here](files/CV.pdf).
 * Ph.D in Automation, Tsinghua University, 2025 (expected).
 
 ## Academic Survices
-I am horored to be reviewers for NIPS (2021, 2022), CVPR (2022), ECCV (2022).
+I am horored to be reviewers for NIPS, CVPR, ECCV.
 
 ## Selected Honors and Awards
 * Tsinghua University Merit Scholarship (2019)
