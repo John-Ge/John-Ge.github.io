@@ -16,6 +16,10 @@ Before coming to Department of Automation, I received B.A. in Department of Phys
 
 在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
+# News
+
+- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models)
+
 # Publications
 
 
