@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Chunjiang Ge, a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). I am interested in Computer Vision, Multi-modal Learning and Causal Learning.
+I am Chunjiang Ge, a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). I am interested in Computer Vision, Deep Learning. 
+
+我是葛春江，就读于清华大学自动化系。我的导师是黄高教授。我的研究兴趣是计算机视觉，深度学习。
 
 Before coming to Department of Automation, I received B.A. in Department of Physics, Tsinghua University. 
+
+在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
 # Publications
 
