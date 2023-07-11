@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Bio
+
 I am Chunjiang Ge, a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). I am interested in Computer Vision, Deep Learning. 
 
 我是葛春江，就读于清华大学自动化系。我的导师是黄高教授。我的研究兴趣是计算机视觉，深度学习。
@@ -22,7 +24,6 @@ Before coming to Department of Automation, I received B.A. in Department of Phys
 
 # Publications
 
-
 ## Preprint
 
 **Domain Adaptation via Prompt Learning**\
@@ -33,7 +34,6 @@ arXiv:2202.06687 \
 **Cross-Modal Adapter for Text-Video Retrieval**\
 H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
 [arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
-
 
 ## Conference Papers
 
@@ -46,7 +46,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
 Chunjiang Ge, Shiji Song and Gao Huang.  \
 AAAI Conference on Artificial Intelligence (AAAI 2023)\
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
-
 
 ## Journal Papers
 
