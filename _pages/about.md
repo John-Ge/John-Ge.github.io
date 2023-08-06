@@ -20,7 +20,7 @@ I am now a Ph.d student of Department of Automation, Tsinghua University, advise
 
 # News
 
-- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models)
+- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration. 我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
 
 # Publications
 
