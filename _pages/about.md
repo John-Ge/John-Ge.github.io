@@ -10,13 +10,13 @@ redirect_from:
 
 # Bio
 
-I am a fourth year Ph.D. candidate, focusing on pattern recognition and machine learning. Through researching computer vision problems, I am dedicated to improving neural network architecture design and training efficiency. My current interest focuses on enabling machine learning models to understand open worlds, and applying these models to problems in open domains.
+I am Chunjiang ge, a fourth year Ph.D. candidate, focusing on pattern recognition and machine learning. Through researching computer vision problems, I am dedicated to improving neural network architecture design and training efficiency. My current interest focuses on enabling machine learning models to understand open worlds, and applying these models to problems in open domains.
 
-我是一位四年级的博士生，主要关注模式识别和机器学习领域。通过研究计算机视觉问题，我致力于提升神经网络的结构设计和训练的效率。我当前的兴趣是致力于使机器学习模型可以理解开放世界，将模型应用于开放领域的问题。
+我是葛春江，目前是四年级的博士生，主要关注模式识别和机器学习领域。通过研究计算机视觉问题，我致力于提升神经网络的结构设计和训练的效率。我当前的兴趣是致力于使机器学习模型可以理解开放世界，将模型应用于开放领域的问题。
 
-I am Chunjiang Ge, a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.A. in Department of Physics, Tsinghua University. 
+I am now a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.A. in Department of Physics, Tsinghua University. 
 
-我是葛春江，就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
+我目前就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
 # News
 
