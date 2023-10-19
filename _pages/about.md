@@ -10,7 +10,7 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fourth year PhD student in Tsinghua University. I have 3 first author papers and have received more than 200 citations now. With the help of foundation models, the potential of artificial intelligence has barely been tapped. I am dedicated to using AI for the benefit of human society. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools, and most importantly change of the world. Achieving this goal requires integrating technologies across large language models, AI agents, multimodal and embodied intelligence.
+My name is Ge Chunjiang. I am currently a fourth year PhD student in Tsinghua University. I have 3 first author papers and have received more than 200 citations now. With the help of foundation models, the potential of artificial intelligence has barely been tapped. I am dedicated to using AI for the benefit of human society. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools, and most importantly change of the world. Achieving this goal requires integrating technologies across large language models, AI agents, multimodal and embodied AI.
 
 我是葛春江，目前是清华大学四年级的博士生。在大模型的帮助下，人工智能的潜力还远远没有被发掘，我致力于用人工智能来造福人类社会。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互，并改变世界的状态。实现这个目标需要将大语言模型，AI Agent，多模态和具身智能多个领域的技术融合。
 
@@ -24,7 +24,7 @@ Innovative work today often requires teamwork. If you are also very interested i
 
 # News
 
-- [2023/10] I am now welcoming you to collaborate with me on large language models, AI agents, multimodal and embodied intelligence. If you are interested in these areas, feel free to contact me.
+- [2023/10] I am now welcoming you to collaborate with me on large language models, AI agents, multimodal and embodied AI. If you are interested in these areas, feel free to contact me.
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
 - [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration. 我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
 
