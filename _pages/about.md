@@ -32,11 +32,6 @@ Innovative work today often requires teamwork. If you are also very interested i
 
 ## Preprint
 
-**Domain Adaptation via Prompt Learning**\
-Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-arXiv:2202.06687 \
-[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
-
 **Cross-Modal Adapter for Text-Video Retrieval**\
 H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
 [arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
@@ -54,6 +49,11 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
 
 ## Journal Papers
+
+**Domain Adaptation via Prompt Learning**\
+Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
+arXiv:2202.06687 \
+[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
