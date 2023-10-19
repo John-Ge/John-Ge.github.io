@@ -18,7 +18,7 @@ I am now a Ph.d student of Department of Automation, Tsinghua University, advise
 
 我目前就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
-Innovative work today often requires teamwork. If you are also very interested in my current research direction and have some technical background, I warmly welcome collaborating with me. If you are at Tsinghua, it will be even more convenient for us to communicate. I will do my best as a team leader to utilize cutting-edge research findings and technical solutions to make contributions to the development of AI across scientific problems, open source projects, and different domains.
+Innovative work today often requires teamwork. If you are also very interested in my current research direction and have some technical background, I warmly welcome collaborating with me. If you are at Tsinghua University, it will be even more convenient for us to communicate. I will do my best as a team leader to utilize cutting-edge research findings and technical solutions to make contributions to the development of AI across scientific problems, open source projects, and different domains.
 
 现在的创新性的工作往往需要一个团队来完成，如果你对我当前的研究方向也十分感兴趣并拥有一定的技术基础，非常欢迎和我合作，如果你在清华，我们交流会更加方便。我会尽我所能做好一个团队的leader，利用最前沿的科研成果和技术方案在科学问题、开源项目不同领域为人工智能的发展做出贡献。
 
