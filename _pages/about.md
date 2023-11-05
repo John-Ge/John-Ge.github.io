@@ -14,7 +14,7 @@ My name is Ge Chunjiang. I am currently a fourth year PhD student in Tsinghua Un
 
 我是葛春江，目前是清华大学四年级的博士生。在大模型的帮助下，人工智能的潜力还远远没有被发掘，我致力于用人工智能来造福人类社会。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互，并改变世界的状态。实现这个目标需要将大语言模型，AI Agent，多模态和具身智能多个领域的技术融合。
 
-I am now a Ph.d student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
+I am now a Ph.D student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
 
 我目前就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
