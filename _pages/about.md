@@ -20,7 +20,7 @@ I am now a Ph.D student of Department of Automation, Tsinghua University, advise
 
 # News
 
-- [2023/10] I am now welcoming you to collaborate with me on large language models, AI agents, multimodal and embodied AI. If you are interested in these areas, feel free to contact me.
+- [2023/11] I am working on an LLM project to generate data, spanning across open-source LLM, multi-modality, quantization, and deployment. I wish to release it in December.
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
 - [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration. 我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
 
