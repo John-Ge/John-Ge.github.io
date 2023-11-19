@@ -18,6 +18,8 @@ I am now a Ph.D student of Department of Automation, Tsinghua University, advise
 
 我目前就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
 
+我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。
+
 # News
 
 - [2023/11] I am working on an LLM project to generate data, spanning across open-source LLM, multi-modality, quantization, and deployment. I wish to release it in December.
