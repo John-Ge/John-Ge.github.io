@@ -41,11 +41,12 @@ Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao H
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
 [arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
 
-<!-- **Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
+**Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
 Chunjiang Ge, Shiji Song and Gao Huang. \
-AAAI Conference on Artificial Intelligence (AAAI 2023)\ -->
+AAAI Conference on Artificial Intelligence (AAAI 2023)\
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/causal.jpg' alt="causal" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/causal.jpg' alt="causal" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
@@ -55,7 +56,7 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
 
 </div>
-</div>
+</div> -->
 
 ## Journal Papers
 
