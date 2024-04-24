@@ -1,0 +1,26 @@
+.paper-box {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .paper-box-image {
+    text-align: center;
+  }
+  
+  .paper-box-image .badge {
+    background-color: #5cb85c;
+    color: white;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+  }
+  
+  .paper-box-text {
+    margin-top: 15px;
+  }
+  
+  .paper-box-text img {
+    margin-top: 5px;
+  }
+  
