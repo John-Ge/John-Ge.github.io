@@ -10,9 +10,9 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fourth year PhD student in Tsinghua University. With the help of foundation models, the potential of artificial intelligence has barely been tapped. I am dedicated to using AI for the benefit of human society. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools, and most importantly change of the world. Achieving this goal requires integrating technologies across large language models, AI agents, multi-modality.
+My name is Ge Chunjiang. I am currently a fourth year PhD student in Tsinghua University. With the help of foundation models, the potential of artificial intelligence has barely been tapped. I am dedicated to using AI for the benefit of human society. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, AI agents, multi-modality.
 
-我是葛春江，目前是清华大学四年级的博士生。在大模型的帮助下，人工智能的潜力还远远没有被发掘，我致力于用人工智能来造福人类社会。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互，并改变世界的状态。实现这个目标需要将大语言模型，AI Agent，多模态多个领域的技术融合。
+我是葛春江，目前是清华大学四年级的博士生。在大模型的帮助下，人工智能的潜力还远远没有被发掘，我致力于用人工智能来造福人类社会。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，AI Agent，多模态多个领域的技术融合。
 
 I am now a Ph.D student of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
 
@@ -22,6 +22,7 @@ I am now a Ph.D student of Department of Automation, Tsinghua University, advise
 
 # News
 
+- [2024/05] I am excited to announce that our project and paper, [ConvLLaVA](https://arxiv.org/abs/2405.15738), has been released. We employ a hierarchical backbone for High resolution understanding, which is efficient and effective. Welcome cooperation!
 - [2023/11] I am working on an LLM project to generate data, spanning across open-source LLM, multi-modality, quantization, and deployment. I wish to release it in December.
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
 - [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration. 我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
@@ -29,6 +30,10 @@ I am now a Ph.D student of Department of Automation, Tsinghua University, advise
 # Publications
 
 ## Preprint
+
+**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
+Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
+[arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
 
 **Cross-Modal Adapter for Text-Video Retrieval**\
 H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
