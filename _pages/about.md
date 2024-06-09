@@ -16,7 +16,7 @@ My name is Ge Chunjiang. I am currently a fourth year PhD candidate in Tsinghua 
 
 I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
 
-我目前就读于清华大学自动化系。我的导师是黄高教授。在来到自动化系之前，我在清华大学物理系获得了学士学位。
+我目前就读于清华大学自动化系。我的导师是黄高教授。我在清华大学物理系获得数理基础科学学位。
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
@@ -35,7 +35,7 @@ If you're interested in my work or personal development, feel free to contact me
 
 **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
 Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
-TL; DR: We propose to employ a five stage ConvNeXt as the visual encoder of LMM to compress visual tokens, greatly improves performance on high resolution benchmarks and efficiency.\
+**TL; DR:** We propose to employ a five stage ConvNeXt as the visual encoder of LMM to compress visual tokens, greatly improves performance on high resolution benchmarks and efficiency.\
 <a href="http://arxiv.org/abs/2405.15738"> 
     <img src="https://img.shields.io/badge/arXiv-2405.15738-b31b1b.svg?logo=arXiv">
 </a>
@@ -52,10 +52,9 @@ TL; DR: We propose to employ a five stage ConvNeXt as the visual encoder of LMM 
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/alibaba/conv-llava?color=ccf" />
 </a>
 
-
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-TL; DR: We propose a novel domain adaptation method, DAPrompt, which learns a set of domain-specific prompts to avoid information loss resulted from domain alignment.\
+**TL; DR:** We propose a novel domain adaptation method, DAPrompt, which learns a set of domain-specific prompts to avoid information loss resulted from domain alignment.\
 <a href="https://arxiv.org/abs/2202.06687"> 
     <img src="https://img.shields.io/badge/arXiv-2202.06687-b31b1b.svg?logo=arXiv">
 </a>
@@ -65,7 +64,6 @@ TL; DR: We propose a novel domain adaptation method, DAPrompt, which learns a se
 <a href="https://github.com/LeapLabTHU/DAPrompt/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
 </a>
-
 
 ## Preprint
 
@@ -89,23 +87,12 @@ Chunjiang Ge, Shiji Song and Gao Huang. \
 AAAI Conference on Artificial Intelligence (AAAI 2023)\
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/causal.jpg' alt="causal" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
-
-**Chunjiang Ge**, Shiji Song and Gao Huang. \
-AAAI Conference on Artificial Intelligence (AAAI 2023)\
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
-
-</div>
-</div> -->
-
 ## Journal Papers
 
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt) 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS) \
+[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
