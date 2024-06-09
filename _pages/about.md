@@ -10,9 +10,9 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fourth year PhD candidate in Tsinghua University. With the help of foundation models, the potential of artificial intelligence has barely been tapped. I am dedicated to using AI for the benefit of human society. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, AI agents, multi-modality.
+My name is Ge Chunjiang. I am currently a fourth year PhD candidate in Tsinghua University. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, Embodied AI, Agents, multi-modality.
 
-我是葛春江，目前是清华大学四年级的博士生。在大模型的帮助下，人工智能的潜力还远远没有被发掘，我致力于用人工智能来造福人类社会。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，AI Agent，多模态多个领域的技术融合。
+我是葛春江，目前是清华大学四年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
 
 I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
 
@@ -31,29 +31,48 @@ If you're interested in my work or personal development, feel free to contact me
 
 # Publications
 
+## Highlight
+
+**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
+Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
+TL; DR: We propose to employ a five stage ConvNeXt as the visual encoder of LMM to compress visual tokens, greatly improves performance on high resolution benchmarks and efficiency.\
+<a href="http://arxiv.org/abs/2405.15738"> 
+    <img src="https://img.shields.io/badge/arXiv-2405.15738-b31b1b.svg?logo=arXiv">
+</a>
+<a href="https://github.com/alibaba/conv-llava"> 
+    <img src="https://img.shields.io/badge/Github-ConvLLaVA-181717.svg?logo=GitHub">
+</a>
+<a href="https://huggingface.co/collections/ConvLLaVA/convllava-66519ef0ccdee62544bd19bf"> 
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Models-ffd21e">
+</a>
+<a href="https://modelscope.cn/organization/ConvLLaVA?tab=model"> 
+    <img src="https://img.shields.io/badge/🤖%20ModelScope-Models-5f4cf2.svg">
+</a>
+<a href="https://github.com/alibaba/conv-llava/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/alibaba/conv-llava?color=ccf" />
+</a>
+
+
+**Domain Adaptation via Prompt Learning**\
+Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
+arXiv:2202.06687 \
+TL; DR: We propose a novel domain adaptation method, DAPrompt, which learns a set of domain-specific prompts to avoid information loss resulted from domain alignment.\
+<a href="https://arxiv.org/abs/2202.06687"> 
+    <img src="https://img.shields.io/badge/arXiv-2202.06687-b31b1b.svg?logo=arXiv">
+</a>
+  <a href="https://github.com/LeapLabTHU/DAPrompt"> 
+    <img src="https://img.shields.io/badge/Github-DAPrompt-181717.svg?logo=GitHub">
+</a>
+<a href="https://github.com/LeapLabTHU/DAPrompt/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
+</a>
+
+
 ## Preprint
 
 **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
 Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
 [arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
-
-<p align="left">
-    <a href="http://arxiv.org/abs/2405.15738"> 
-        <img src="https://img.shields.io/badge/arXiv-2405.15738-b31b1b.svg?logo=arXiv">
-    </a>
-      <a href="https://github.com/alibaba/conv-llava"> 
-        <img src="https://img.shields.io/badge/Github-ConvLLaVA-b31b1b.svg?logo=GitHub">
-    </a>
-    <a href="https://huggingface.co/collections/ConvLLaVA/convllava-66519ef0ccdee62544bd19bf"> 
-        <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Models-ffd21e">
-    </a>
-    <a href="https://modelscope.cn/organization/ConvLLaVA?tab=model"> 
-        <img src="https://img.shields.io/badge/🤖%20ModelScope-Models-5f4cf2.svg">
-    </a>
-    <a href="https://github.com/alibaba/conv-llava/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/alibaba/conv-llava?color=ccf" />
-    </a>
-</p>
 
 **Cross-Modal Adapter for Text-Video Retrieval**\
 H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
@@ -89,9 +108,6 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 arXiv:2202.06687 \
 [arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt) 
-<a href="https://github.com/LeapLabTHU/DAPrompt/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
-</a>
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
