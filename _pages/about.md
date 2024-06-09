@@ -37,21 +37,18 @@ If you're interested in my work or personal development, feel free to contact me
 Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
 [arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
 
-<p align="center">
+<p align="left">
     <a href="http://arxiv.org/abs/2405.15738"> 
         <img src="https://img.shields.io/badge/arXiv-2405.15738-b31b1b.svg?logo=arXiv">
+    </a>
+      <a href="https://github.com/alibaba/conv-llava"> 
+        <img src="https://img.shields.io/badge/Github-ConvLLaVA-b31b1b.svg?logo=GitHub">
     </a>
     <a href="https://huggingface.co/collections/ConvLLaVA/convllava-66519ef0ccdee62544bd19bf"> 
         <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Models-ffd21e">
     </a>
     <a href="https://modelscope.cn/organization/ConvLLaVA?tab=model"> 
         <img src="https://img.shields.io/badge/🤖%20ModelScope-Models-5f4cf2.svg">
-    </a>
-    <a href="https://wisemodel.cn/organization/ConvLLaVA"> 
-        <img src="https://img.shields.io/badge/WiseModel-Models-571282.svg">
-    </a>
-    <a href="https://github.com/alibaba/conv-llava/blob/main/asset/WeChat.jpg"> 
-        <img src="https://img.shields.io/badge/WeChat-Group-5ef27f.svg">
     </a>
     <a href="https://github.com/alibaba/conv-llava/stargazers">
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/alibaba/conv-llava?color=ccf" />
