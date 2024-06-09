@@ -55,7 +55,6 @@ TL; DR: We propose to employ a five stage ConvNeXt as the visual encoder of LMM 
 
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-arXiv:2202.06687 \
 TL; DR: We propose a novel domain adaptation method, DAPrompt, which learns a set of domain-specific prompts to avoid information loss resulted from domain alignment.\
 <a href="https://arxiv.org/abs/2202.06687"> 
     <img src="https://img.shields.io/badge/arXiv-2202.06687-b31b1b.svg?logo=arXiv">
@@ -106,7 +105,6 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-arXiv:2202.06687 \
 [arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt) 
 
 **Large scale air pollution prediction with deep convolutional networks**\
