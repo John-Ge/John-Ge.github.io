@@ -88,7 +88,10 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 arXiv:2202.06687 \
-[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
+[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt) 
+<a href="https://github.com/LeapLabTHU/DAPrompt/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
+</a>
 
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
