@@ -11,7 +11,7 @@ A detailed CV is [here](files/CV.pdf).
 
 ## Education
 * B.A. in Physics and Math, Tsinghua University, 2020.
-* Ph.D in Automation, Tsinghua University, 2025 (expected).
+* Ph.D in Automation, Tsinghua University, 2026 (expected).
 
 ## Academic Survices
 I am horored to be reviewers for NIPS, CVPR, ECCV.

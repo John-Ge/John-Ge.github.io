@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ge chunjiang"
   avatar           : "profile-me1.jpg"
-  bio              : "A Ph.d student in Tsinghua University. "
+  bio              : "A Ph.d candidate in Tsinghua University. "
   location         : "Tsinghua, Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : GeChunjiang
   vine             :
   weibo            :
   xing             :
