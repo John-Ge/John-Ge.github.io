@@ -10,9 +10,9 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fourth year PhD candidate in Tsinghua University. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, Embodied AI, Agents, multi-modality.
+My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua University. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, Embodied AI, Agents, multi-modality.
 
-我是葛春江，目前是清华大学四年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
+我是葛春江，目前是清华大学五年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
 
 I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
 
@@ -21,6 +21,10 @@ I am now a Ph.D candidate of Department of Automation, Tsinghua University, advi
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
 我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。
+
+I am seeking postdoc opportunities.
+
+我在寻求博士后的机会。
 
 # News
 
