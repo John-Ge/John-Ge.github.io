@@ -14,24 +14,20 @@ My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua U
 
 我是葛春江，目前是清华大学五年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University.
+I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. \href{https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en}{Shiji Song} and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am seeking postdoc opportunities.**
 
-我目前就读于清华大学自动化系。我的导师是黄高教授。我在清华大学物理系获得数理基础科学学位。
+我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后**的机会。
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
 我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。
 
-I am seeking postdoc opportunities.
-
-我在寻求博士后的机会。
-
 # News
 
+- [2024/10] Awarded by National Scholarship (国家奖学金), Ministry of Education of China.
 - [2024/05] I am excited to announce that our project and paper, [ConvLLaVA](https://arxiv.org/abs/2405.15738), has been released. We employ a hierarchical backbone for High resolution understanding, which is efficient and effective. Welcome cooperation!
-- [2023/11] I am working on an LLM project to generate data, spanning across open-source LLM, multi-modality, quantization, and deployment. I wish to release it in December.
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
-- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration. 我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
+- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration。我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
 
 # Publications
 
