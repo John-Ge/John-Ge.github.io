@@ -14,7 +14,7 @@ My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua U
 
 我是葛春江，目前是清华大学五年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. \href{https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en}{Shiji Song} and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am seeking postdoc opportunities.**
+I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am seeking postdoc opportunities.**
 
 我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后**的机会。
 
