@@ -72,8 +72,7 @@ Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji So
 [arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
 
 **Llava-uhd: an lmm perceiving any aspect ratio and high-resolution images**\
-Ruyi Xu$^\ast$, Yuan Yao$^\ast$, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang.  \
-arXiv preprint arXiv:2403.11703. \
+Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang.  \
 [Paper](https://arxiv.org/abs/2403.11703)
 
 ## Traditional Computer Vision
@@ -98,18 +97,17 @@ AAAI Conference on Artificial Intelligence (AAAI 2023)\
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
 
 **Large scale air pollution prediction with deep convolutional networks**\
-Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
+Chunjiang Ge$^\ast$, Gao Huang, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
 Science China Information Sciences. (IF：8.8) \
 [Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
 
 **Using human feedback to fine-tune diffusion models without any reward model**\
-Kai Yang$^\ast$, Jian Tao$^\ast$, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li.  \
+Kai Yang, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li.  \
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. \
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.pdf)
 
 **Demystify Mamba in Vision: A Linear Attention Perspective**\
-Dongchen Han$^\ast$, Ziyi Wang$^\ast$, Zhuofan Xia, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang.  \
-arXiv preprint arXiv:2405.16605. \
+Dongchen Han, Ziyi Wang, Zhuofan Xia, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang.  \
 [Paper](https://arxiv.org/abs/2405.16605)
 
 ---
