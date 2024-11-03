@@ -14,9 +14,9 @@ My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua U
 
 我是葛春江，目前是清华大学五年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am seeking postdoc opportunities.**
+I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities..**
 
-我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后**的机会。
+我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后和工业界**的机会。
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
@@ -65,39 +65,52 @@ Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
 </a>
 
-## Preprint
+## MultiModal Large Language Models (MLLM)
 
 **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
 Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
 [arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
 
-**Cross-Modal Adapter for Text-Video Retrieval**\
-H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
-[arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
+**Llava-uhd: an lmm perceiving any aspect ratio and high-resolution images**\
+Ruyi Xu$^\ast$, Yuan Yao$^\ast$, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang.  \
+arXiv preprint arXiv:2403.11703. \
+[Paper](https://arxiv.org/abs/2403.11703)
 
-## Conference Papers
-
-**On the Integration of Self-Attention and Convolution**\
-Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
-[arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
-
-**Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
-Chunjiang Ge, Shiji Song and Gao Huang. \
-AAAI Conference on Artificial Intelligence (AAAI 2023)\
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
-
-## Journal Papers
+## Traditional Computer Vision
 
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS) \
 [arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
+**On the Integration of Self-Attention and Convolution**\
+Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
+[arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
+
+**Cross-Modal Adapter for Text-Video Retrieval**\
+H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
+[arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
+
+**Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
+Chunjiang Ge, Shiji Song and Gao Huang. \
+AAAI Conference on Artificial Intelligence (AAAI 2023)\
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
+
 **Large scale air pollution prediction with deep convolutional networks**\
 Gao Huang$^\ast$, Chunjiang Ge$^\ast$, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
 Science China Information Sciences. (IF：8.8) \
 [Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
+
+**Using human feedback to fine-tune diffusion models without any reward model**\
+Kai Yang$^\ast$, Jian Tao$^\ast$, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li.  \
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. \
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.pdf)
+
+**Demystify Mamba in Vision: A Linear Attention Perspective**\
+Dongchen Han$^\ast$, Ziyi Wang$^\ast$, Zhuofan Xia, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang.  \
+arXiv preprint arXiv:2405.16605. \
+[Paper](https://arxiv.org/abs/2405.16605)
 
 ---
 
