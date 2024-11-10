@@ -58,13 +58,13 @@ Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji So
 
 **Llava-uhd: an lmm perceiving any aspect ratio and high-resolution images**\
 Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang.  \
-[Paper](https://arxiv.org/abs/2403.11703)
+[arXiv](https://arxiv.org/abs/2403.11703)
 
 ## Traditional Computer Vision
 
 **Domain Adaptation via Prompt Learning**\
 Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS) \
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (IF: 10.4) \
 [arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
 
 **On the Integration of Self-Attention and Convolution**\
@@ -73,7 +73,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
 [arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
 
 **Cross-Modal Adapter for Text-Video Retrieval**\
-H Jiang, J Zhang, R Huang, C Ge, Z Ni, J Lu, J Zhou, S Song, G Huang \
+Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Shiji Song, Gao Huang \
+Pattern Recognition (PR) (IF: 7.5) \
 [arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
 
 **Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
