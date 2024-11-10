@@ -10,14 +10,15 @@ author_profile: true
 A detailed CV is [here](https://github.com/John-Ge/John-Ge.github.io/blob/master/files/CV.pdf).
 
 ## Education
-* B.A. in Physics and Math, Tsinghua University, 2020.
+
+* B.S. in Physics and Math, Tsinghua University, 2020.
 * Ph.D in Automation, Tsinghua University, 2026 (expected).
 
 ## Academic Survices
-I am horored to be reviewers for NIPS, CVPR, ECCV.
+I am horored to be reviewers for NIPS, CVPR, ECCV, ICCV, AAAI, IEEE TIP.
 
 ## Selected Honors and Awards
-* Tsinghua University Merit Scholarship (2019)
-* Tsinghua University – Guangyao Scholarship (2019)
-* Tsinghua University Excellent Student Cadre (2021)
 
+- National Scholarship, Ministry of Education of China 2024
+- Comprehensive Excellence Scholarship (First Class), Tsinghua University 2023&2022&2019
+- Outstanding Oral Presentation, Doctoral Students Forum, Tsinghua University 2023
