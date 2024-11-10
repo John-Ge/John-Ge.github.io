@@ -20,8 +20,7 @@ I am now a Ph.D candidate of Department of Automation, Tsinghua University, advi
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
-我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。
-
+我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。如果你有微信，可以 [微信](https://github.com/John-Ge/John-Ge.github.io/blob/master/images/wechat.jpg) 联系。
 # News
 
 - [2024/10] Awarded by National Scholarship (国家奖学金), Ministry of Education of China.
