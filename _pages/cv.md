@@ -7,7 +7,7 @@ author_profile: true
 #   - /resume
 ---
 
-A detailed CV is [here](files/CV.pdf).
+A detailed CV is [here](https://github.com/John-Ge/John-Ge.github.io/blob/master/files/CV.pdf).
 
 ## Education
 * B.A. in Physics and Math, Tsinghua University, 2020.
