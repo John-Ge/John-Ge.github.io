@@ -10,11 +10,11 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua University. My current interest is working towards enabling machine learning models to understand the open world, interact with the open world using tools. Achieving this goal requires integrating technologies across large language models, Embodied AI, Agents, multi-modality.
+My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua University. My research interest lies in Computer Vision and Multimodal Foundation Models, and the ultimate goals are towards enabling machine learning models to understand the open world, interact with the open world.
 
-我是葛春江，目前是清华大学五年级的博士生。当前的我当前的兴趣是致力于使机器学习模型可以理解开放世界，并通过利用工具和开放世界交互。实现这个目标需要将大语言模型，具身智能，智能体，多模态多个领域的技术融合。
+我是葛春江，目前是清华大学五年级的博士生。我兴趣是计算机视觉和多模态基础模型，最终目标是使机器学习模型可以理解开放世界，并和开放世界交互。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities..**
+I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities.**
 
 我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后和工业界**的机会。
 
@@ -26,7 +26,7 @@ If you're interested in my work or personal development, feel free to contact me
 - [2024/10] Awarded by National Scholarship (国家奖学金), Ministry of Education of China.
 - [2024/05] I am excited to announce that our project and paper, [ConvLLaVA](https://arxiv.org/abs/2405.15738), has been released. We employ a hierarchical backbone for High resolution understanding, which is efficient and effective. Welcome cooperation!
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
-- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration。我建立了一个github仓库，收集了关于基础模型的一些论文，欢迎大家贡献与合作。
+- [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration。
 
 # Publications
 
