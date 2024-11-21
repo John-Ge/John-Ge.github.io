@@ -23,7 +23,6 @@ If you're interested in my work or personal development, feel free to contact me
 我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。如果你有微信，可以 [微信](https://github.com/John-Ge/John-Ge.github.io/blob/master/images/wechat.jpg) 联系。
 # News
 
-- [2024/10] Awarded by National Scholarship (国家奖学金), Ministry of Education of China.
 - [2024/05] I am excited to announce that our project and paper, [ConvLLaVA](https://arxiv.org/abs/2405.15738), has been released. We employ a hierarchical backbone for High resolution understanding, which is efficient and effective. Welcome cooperation!
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
 - [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration。

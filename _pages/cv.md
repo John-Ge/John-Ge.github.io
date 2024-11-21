@@ -19,6 +19,5 @@ I am horored to be reviewers for NIPS, CVPR, ECCV, ICCV, AAAI, IEEE TIP.
 
 ## Selected Honors and Awards
 
-- National Scholarship, Ministry of Education of China 2024
 - Comprehensive Excellence Scholarship (First Class), Tsinghua University 2023&2022&2019
 - Outstanding Oral Presentation, Doctoral Students Forum, Tsinghua University 2023
