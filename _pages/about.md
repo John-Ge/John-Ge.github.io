@@ -14,13 +14,14 @@ My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua U
 
 我是葛春江，目前是清华大学五年级的博士生。我兴趣是计算机视觉和多模态基础模型，最终目标是使机器学习模型可以理解开放世界，并和开放世界交互。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en) and Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities.**
+I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities.**
 
 我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后和工业界**的机会。
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
 我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。如果你有微信，可以 [微信](https://github.com/John-Ge/John-Ge.github.io/blob/master/images/wechat.jpg) 联系。
+
 # News
 
 - [2024/05] I am excited to announce that our project and paper, [ConvLLaVA](https://arxiv.org/abs/2405.15738), has been released. We employ a hierarchical backbone for High resolution understanding, which is efficient and effective. Welcome cooperation!
