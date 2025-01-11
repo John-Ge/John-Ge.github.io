@@ -10,13 +10,16 @@ redirect_from:
 
 # Bio
 
-My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua University. My research interest lies in Computer Vision and Multimodal Foundation Models, and the ultimate goals are towards enabling machine learning models to understand the open world, interact with the open world.
+My name is Ge Chunjiang. I am currently a fifth year PhD candidate in Tsinghua University. My research interest lies in Computer Vision and Multimodal Foundation Models, and the ultimate goals are towards enabling machine learning models to understand the open world, interact with the open world. I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities.**
 
-我是葛春江，目前是清华大学五年级的博士生。我兴趣是计算机视觉和多模态基础模型，最终目标是使机器学习模型可以理解开放世界，并和开放世界交互。
+我是葛春江，目前是清华大学五年级的博士生。我兴趣是计算机视觉和多模态基础模型，最终目标是使机器学习模型可以理解开放世界，并和开放世界交互。我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后和工业界**的机会。
 
-I am now a Ph.D candidate of Department of Automation, Tsinghua University, advised by Prof. [Gao huang](http://www.gaohuang.net/). Before coming to Department of Automation, I received B.S. in Department of Physics, Tsinghua University. **I am actively seeking postdoctoral positions and industrial opportunities.**
+My research interests include:
 
-我目前就读于清华大学自动化系。我在清华大学物理系获得数理基础科学学位。我在寻求**博士后和工业界**的机会。
+1. **Multimodal Foundation Models**. I think the foundation models should build on physical world. Hence, to understand the real world, vision is essential. My work focuses on improving the foundation's visual capabilities, e.g., on high resolution images ([ConvLLaVA](https://arxiv.org/abs/2405.15738), [LLaVA-UHD](https://arxiv.org/abs/2403.11703)), long videos. I also interested in integrate visual understanding and generation.
+2. **Computer Vision Architectures**. My research interests include building efficient and effective vision architectures, e.g., convolution neural networks, self-attention, linear attention, to accelerate inference speed and reduce model size. My work includes integration of self-attention and convolution ([ACMix](https://arxiv.org/abs/2111.14556)), efficient linear attention ([MILA](https://arxiv.org/abs/2405.16605)).
+3. **Learning Robust and Generalizable Representations**. I am interested in learning robust and generalizable representations through, e.g., domain adaptation ([DAPrompt](https://arxiv.org/abs/2202.06687)), causal prediction ([SEAD](https://ojs.aaai.org/index.php/AAAI/article/view/25142)). Besides, making models' behavior more controllable is also my interest ([D3PO](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.pdf)).
+
 
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
@@ -33,7 +36,7 @@ If you're interested in my work or personal development, feel free to contact me
 ## Highlight
 
 **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
-Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
+**Chunjiang Ge**, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
 **TL; DR:** We propose to employ a five stage ConvNeXt as the visual encoder of LMM to compress visual tokens, greatly improves performance on high resolution benchmarks and efficiency.\
 <a href="http://arxiv.org/abs/2405.15738"> 
     <img src="https://img.shields.io/badge/arXiv-2405.15738-b31b1b.svg?logo=arXiv">
@@ -52,7 +55,7 @@ Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji So
 </a>
 
 **Domain Adaptation via Prompt Learning**\
-Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
+**Chunjiang Ge**, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
 **TL; DR:** We propose a novel domain adaptation method, DAPrompt, which learns a set of domain-specific prompts to avoid information loss resulted from domain alignment.\
 <a href="https://arxiv.org/abs/2202.06687"> 
     <img src="https://img.shields.io/badge/arXiv-2202.06687-b31b1b.svg?logo=arXiv">
@@ -64,51 +67,19 @@ Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/DAPrompt?color=ccf" />
 </a>
 
-## MultiModal Large Language Models (MLLM)
-
-**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
-Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
-[arXiv](https://arxiv.org/abs/2405.15738) [code](https://github.com/alibaba/conv-llava)
-
-**Llava-uhd: an lmm perceiving any aspect ratio and high-resolution images**\
-Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang.  \
-[arXiv](https://arxiv.org/abs/2403.11703)
-
-## Traditional Computer Vision
-
-**Domain Adaptation via Prompt Learning**\
-Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.  \
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (IF: 10.4) \
-[arXiv](https://arxiv.org/abs/2202.06687) [code](https://github.com/LeapLabTHU/DAPrompt)
-
 **On the Integration of Self-Attention and Convolution**\
-Pan, Xuran, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)\
-[arXiv](https://arxiv.org/abs/2111.14556) [Code](https://github.com/leaplabthu/acmix)
+Pan, Xuran, **Chunjiang Ge**, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and Gao Huang.  \
+**TL; DR:** We propose an operator, ACMix, which integrates convolution and self-attention with most compute sharing.\
+<a href="(https://arxiv.org/abs/2111.14556"> 
+    <img src="https://img.shields.io/badge/arXiv-2111.14556-b31b1b.svg?logo=arXiv">
+</a>
+  <a href="https://github.com/LeapLabTHU/ACmix"> 
+    <img src="https://img.shields.io/badge/Github-ACmix-181717.svg?logo=GitHub">
+</a>
+<a href="https://github.com/LeapLabTHU/ACmix/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/ACmix?color=ccf" />
+</a>
 
-**Cross-Modal Adapter for Text-Video Retrieval**\
-Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Shiji Song, Gao Huang \
-Pattern Recognition (PR) (IF: 7.5) \
-[arXiv](https://arXiv.org/abs/2211.09623) [code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
-
-**Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism**\
-Chunjiang Ge, Shiji Song and Gao Huang. \
-AAAI Conference on Artificial Intelligence (AAAI 2023)\
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25142)
-
-**Large scale air pollution prediction with deep convolutional networks**\
-Chunjiang Ge$^\ast$, Gao Huang, Tianyu Xiong, Shiji Song, Le Yang, Baoxian Liu, Wenjun Yin and Cheng Wu.  \
-Science China Information Sciences. (IF：8.8) \
-[Paper](https://link.springer.com/article/10.1007/s11432-020-2951-1)
-
-**Using human feedback to fine-tune diffusion models without any reward model**\
-Kai Yang, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li.  \
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. \
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.pdf)
-
-**Demystify Mamba in Vision: A Linear Attention Perspective**\
-Dongchen Han, Ziyi Wang, Zhuofan Xia, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang.  \
-[Paper](https://arxiv.org/abs/2405.16605)
 
 ---
 
