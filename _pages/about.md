@@ -31,9 +31,7 @@ If you're interested in my work or personal development, feel free to contact me
 <!-- - [2023/08] I become a contributor of project [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF/tree/main).  -->
 - [2023/06] I establish a github repo for collecting papers on [foundation models](https://github.com/John-Ge/awesome-foundation-models). Welcome pull requests and collaboration。
 
-# Publications
-
-## Highlight
+# Selected Publications
 
 **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**\
 **Chunjiang Ge**, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng \
@@ -79,7 +77,6 @@ Pan, Xuran, **Chunjiang Ge**, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, and G
 <a href="https://github.com/LeapLabTHU/ACmix/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/LeapLabTHU/ACmix?color=ccf" />
 </a>
-
 
 ---
 
