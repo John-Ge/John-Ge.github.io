@@ -30,6 +30,10 @@ Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, **Chunjiang Ge**, Tat-Seng
 Yin, Shukang, Fu, Chaoyou, Zhao, Sirui, Shen, Yunhang, **Chunjiang Ge**, Yang, Yan, Long, Zuwei, Dai, Yuhan, Xu, Tong, Sun, Xing, and others.  \
 [arXiv](https://arxiv.org/abs/2411.19951)
 
+**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**
+Yifei Li, Junbo Niu, Ziyang Miao, **Chunjiang Ge**, Yuanhang Zhou, Qihao He, Xiaoyi Dong, Haodong Duan, Shuangrui Ding, Rui Qian, and others.  \
+[arXiv](https://arxiv.org/abs/2501.05510)
+
 ## Vision Network Architectures
 
 **On the Integration of Self-Attention and Convolution**\
