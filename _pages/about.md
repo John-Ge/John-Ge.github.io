@@ -20,10 +20,15 @@ My research interests include:
 2. **Computer Vision Architectures**. My research interests include building efficient and effective vision architectures, e.g., convolution neural networks, self-attention, linear attention, to accelerate inference speed and reduce model size. My work includes integration of self-attention and convolution ([ACMix](https://arxiv.org/abs/2111.14556)), efficient linear attention ([MILA](https://arxiv.org/abs/2405.16605)).
 3. **Learning Robust and Generalizable Representations**. I am interested in learning robust and generalizable representations through, e.g., domain adaptation ([DAPrompt](https://arxiv.org/abs/2202.06687)), causal prediction ([SEAD](https://ojs.aaai.org/index.php/AAAI/article/view/25142)). Besides, making models' behavior more controllable is also my interest ([D3PO](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.pdf)).
 
-
 If you're interested in my work or personal development, feel free to contact me. I can arrange 30 minutes per week to communicate with you. You can contact me by email.
 
 我每周可以安排30分钟的时间和同学们交流，可以给我发邮件联系。如果你有微信，可以 [微信](https://github.com/John-Ge/John-Ge.github.io/blob/master/images/wechat.jpg) 联系。
+
+# Survices
+
+- Conference: CVPR, NIPS, ICCV, ICML, ECCV;
+- Journal: TIP, TCSVT;
+
 
 # News
 
